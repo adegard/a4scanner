@@ -5,6 +5,19 @@ single, multi-page A4 PDF.
 
 Built with **Kotlin** and **Jetpack Compose**.
 
+## Download
+
+A signed release APK is committed in this repository:
+
+- [`releases/a4scanner-v1.0.0.apk`](releases/a4scanner-v1.0.0.apk)
+
+```
+SHA-256 (a4scanner-v1.0.0.apk):
+6ea5188e83b61b8ea81a79b096fd7b5ff7eee8fb0e2f81de24af43c10e41a915
+```
+
+Enable "Install unknown apps" for your browser/file manager, then open the APK to install.
+
 ## Features
 
 - **Camera capture** — capture one page at a time using CameraX, with a flash toggle.
